@@ -1,32 +1,31 @@
 5.VERIFICATION-OF-NORTON-S-THEOREM
+
 AIM:
+
 To verify Norton’s theorem practically and theoretically for the given DC circuit.
+
 APPARATUS REQUIRED:
+
 1.	Regulated Power supply ( RPS) (0-30 V) 1
 2.	Voltmeter (0-30 V) MC 1
 3.	Ammeter ( 0 - 10 mA) MC 1
 4.	Resistors 470 Ω 560 Ω 1 K Ω 2 1 1
 5.	Bread board --- 1
 6.	Multimeter --- 1
+
 THEORY:
+
 NORTON’S THEOREM:
 Norton’s theorem states that, ‘a linear two-terminal circuit can be replaced by an equivalent circuit consisting of a current source, IN (=Isc) in parallel with a resistor RN (= RTh), where IN (=Isc) is the short-circuit current through the load terminals and RN is the equivalent resistance at the load terminals when the independent sources are turned off.Norton’s Current, IN or Isc: It is the short-circuit current through the load terminals. i.e., IN = Isc
+
 Norton’s Resistance, RN:It is the look-back resistance across the load terminals when all the sources are replaced by their internal resistances. An ideal voltage source is replaced by short- circuiting as its internal resistance is zero. An ideal current source is replaced by open- circuiting as its internal resistance is infinity.
 
-
-
-
-
-
-
-
 CIRCUIT DIAGRAM:
- VERIFICATION OF NORTON’S THEOREM
+VERIFICATION OF NORTON’S THEOREM
  
+<img width="878" height="1321" alt="image" src="https://github.com/user-attachments/assets/be4313f6-1d71-4970-b435-6dd5501d9188" />
  
-
-
-
+<img width="940" height="1233" alt="image" src="https://github.com/user-attachments/assets/4c76348e-5f16-4aaa-909c-15bb506121fa" />
 
 PROCEDURE:
 1.	Make the connections as per the Circuit Diagram:1
@@ -44,29 +43,25 @@ Thevenin’s Theorem IL = VTh/ ( RTh+ R L)
 Norton’s Theorem IL = IN * RN / ( RN + RL )
 12.	Theoretically verify the Norton’s theorem.
 
-
-
-
-
-
-
-
-
-
 TABULATION:
  
-
-
+<img width="940" height="1241" alt="image" src="https://github.com/user-attachments/assets/e025a661-2785-4be0-9d02-e42361fcfdd8" />
 
 MODEL CALCULATION:
 Practical value of IL (from tabulation 1) =2.3mA
 Verification of Norton’s theorem
 IL = IN * RN / ( RN+ RL ) = 2.43mA
 Theoretical calculation of IL ,IN and RTh(RN) for the given circuit:
- 
- 
+
+<img width="940" height="541" alt="image" src="https://github.com/user-attachments/assets/f950479d-7abb-4d21-8076-b20ab4330bff" />
+
+<img width="909" height="1454" alt="image" src="https://github.com/user-attachments/assets/9d75716f-d5c8-49db-8c5f-c68b30fc1b46" />
+
 MARK SPLIT UP:
- 
+
+<img width="940" height="1104" alt="image" src="https://github.com/user-attachments/assets/2c033839-66d4-42a5-95b0-506224d2d5a1" />
+
 RESULT:
+
 Thus Thevenin’s and Norton’s theorem is verified practically and theoretically.
 
